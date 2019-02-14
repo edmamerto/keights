@@ -1,2 +1,2 @@
 # keights
-👧ts (wip) Kubernetes experiments
+👧ts (wip) PodSpecs for my Kubernetes experiments
