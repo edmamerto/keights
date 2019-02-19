@@ -1,5 +1,5 @@
 # keights
-👧ts (wip) PodSpecs for my Kubernetes experiments
+👧ts (wip) PodSpecs for Kubernetes experiments
 
 # Todo 
 Add manifests
