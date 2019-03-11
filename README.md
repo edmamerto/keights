@@ -2,4 +2,4 @@
 👧ts (wip) PodSpecs for Kubernetes experiments
 
 # Todo 
-Add manifests
+Add manifests and containers
